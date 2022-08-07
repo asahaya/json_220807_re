@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:json_220807_re/home_http.dart';
 
-import 'home_data.dart';
-
 void main() {
   runApp(const MyApp());
 }
