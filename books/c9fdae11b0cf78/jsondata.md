@@ -8,4 +8,4 @@ published: true
 
 
 xxxxxxxxxxxxx
-[images/json_build.jpg]
+![](/images/json_build.jpg)
