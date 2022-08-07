@@ -1,0 +1,16 @@
+    
+    
+    [
+    { 
+        "username": "inio",
+        "email": "inio@gmail.com",
+        "urlAvatar":
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Inio_Asano_at_TCAF_2018.jpg/1200px-Inio_Asano_at_TCAF_2018.jpg"
+      },
+      {
+        "username": "tadanobu",
+        "email": "tadanobu@gmail.com",
+        "urlAvatar":
+            "http://www.anore.co.jp/tadanobu_asano/images/photo_01.jpg"
+      }
+    ]
