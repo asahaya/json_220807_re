@@ -7,7 +7,7 @@ published: true
 ---
 
 
-xxxxxxxxxxxxx
+
 ![](/images/json_build.jpg)
 
 ---
@@ -123,6 +123,7 @@ class User {
 
 ---
 
+-JSONデータをJsonファイルに書き、それを反映させる方法
 
 
 ```dart:http_page.dart
@@ -246,3 +247,6 @@ class User {
 ```dart:
 
 ```
+
+今回参考にしたもの
+https://www.youtube.com/watch?v=1OEhIpBIZXM&list=PL1WkZqhlAdC8enpcvzv_uAS9FmHTDOCJ8&index=24
